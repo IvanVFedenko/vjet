@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/vjet/static/css/main.c148b557.chunk.css",
+    "main.js": "/vjet/static/js/main.e34538f8.chunk.js",
+    "main.js.map": "/vjet/static/js/main.e34538f8.chunk.js.map",
+    "runtime-main.js": "/vjet/static/js/runtime-main.1849ccd4.js",
+    "runtime-main.js.map": "/vjet/static/js/runtime-main.1849ccd4.js.map",
+    "static/js/2.9f4327f5.chunk.js": "/vjet/static/js/2.9f4327f5.chunk.js",
+    "static/js/2.9f4327f5.chunk.js.map": "/vjet/static/js/2.9f4327f5.chunk.js.map",
+    "index.html": "/vjet/index.html",
+    "precache-manifest.145db7db2f52af77216f8df8152a673f.js": "/vjet/precache-manifest.145db7db2f52af77216f8df8152a673f.js",
+    "service-worker.js": "/vjet/service-worker.js",
+    "static/css/main.c148b557.chunk.css.map": "/vjet/static/css/main.c148b557.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1849ccd4.js",
+    "static/js/2.9f4327f5.chunk.js",
+    "static/css/main.c148b557.chunk.css",
+    "static/js/main.e34538f8.chunk.js"
+  ]
+}
